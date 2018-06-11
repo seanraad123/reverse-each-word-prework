@@ -1,4 +1,3 @@
-
 def reverse_each_word(string)
   string = string.split
   a = []
@@ -6,6 +5,5 @@ def reverse_each_word(string)
     a.push(x.reverse)
   end
   a = a.join(" ")
-  print a
+  return a
 end
-
