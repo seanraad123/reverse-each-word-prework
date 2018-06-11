@@ -6,7 +6,7 @@ def reverse_each_word(string)
   string.each do |x|
     a.push(x.reverse)
   end
-
+  print a
 end
 
 reverse_each_word("woord helooo")
