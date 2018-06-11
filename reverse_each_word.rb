@@ -9,5 +9,3 @@ def reverse_each_word(string)
   a = a.join(" ")
   print a
 end
-
-reverse_each_word("woord helooo")
