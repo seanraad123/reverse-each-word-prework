@@ -4,7 +4,7 @@ def reverse_each_word(string)
   string = string.split
   print string
   string.each do |x|
-    print string
+    print x
   end
 
 end
