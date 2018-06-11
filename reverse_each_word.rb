@@ -4,3 +4,6 @@ def reverse_each_word(string)
   end
   puts x
 end
+
+
+reverse_each_word("test!! this is a test!")
