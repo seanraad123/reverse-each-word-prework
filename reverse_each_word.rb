@@ -1,5 +1,7 @@
-def turn_into_frog(student)
-  puts "Poof! #{student} is a frog."
-end
+cool_nums = [1, 2, 3]
 
-turn_into_frog("bla")
+def change_nums(nums)
+  nums.each do |x|
+    puts x + 1
+  end
+end
