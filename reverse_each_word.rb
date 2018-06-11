@@ -1,8 +1,8 @@
 cool_nums = [1, 2, 3]
 
-def change_nums(nums)
-  nums.each do |x|
-    puts x + 1
+def reverse_each_word(string)
+  string.each do |x|
+    puts x.reverse
   end
 end
 
