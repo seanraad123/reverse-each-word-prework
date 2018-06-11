@@ -6,4 +6,4 @@ def reverse_each_word(string)
   end
 end
 
-change_nums(cool_nums)
+reverse_each_word("woord helooo")
