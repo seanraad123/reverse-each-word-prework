@@ -1,4 +1,3 @@
-cool_nums = [1, 2, 3]
 
 def reverse_each_word(string)
   string = string.split
@@ -9,3 +8,4 @@ def reverse_each_word(string)
   a = a.join(" ")
   print a
 end
+
