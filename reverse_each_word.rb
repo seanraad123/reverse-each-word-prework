@@ -5,3 +5,5 @@ def change_nums(nums)
     puts x + 1
   end
 end
+
+change_nums(cool_nums)
